@@ -99,7 +99,7 @@ img{
     width: 28%;
     text-align: center;
     border-radius: 20px;
-    background-color: rgb(185, 176, 176);
+    background-color: rgba(185, 176, 176, 0.37);
  }
  #mind{
     display: flexbox;
@@ -110,7 +110,7 @@ img{
     width: 28%;
     text-align: center;
     border-radius: 20px;
-    background-color: rgb(185, 176, 176);
+    background-color: rgba(185, 176, 176, 0.37);
  }
  #sux{
     display: flexbox;
@@ -121,7 +121,7 @@ img{
     width: 28%;
     text-align: center;
     border-radius: 20px;
-    background-color: rgb(185, 176, 176);
+    background-color: rgba(185, 176, 176, 0.37);
  }
  .nutopics{
     display: flex;
