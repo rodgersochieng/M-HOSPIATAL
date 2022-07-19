@@ -15,6 +15,7 @@ img{
     left: 46%;
     width: 15%;
     top: 40px;
+    color: #54c7f9;
  }
  .consul-option{
     display: flex;
@@ -87,7 +88,7 @@ img{
     position: relative;
     top: 43px;
     justify-content: space-between;
-    height: 70%;
+    height: 63%;
     
  }
  #food{
@@ -163,6 +164,43 @@ img{
    left: 2%;
    border-radius: 90% ;
   }
+ #loader{
+   position:relative;
+   top: -14%;
+   left: 13%;
+   color: #54c7f9;
+   font-size: x-large;
+ }
+ #tick{
+   position:relative;
+   top: -14%;
+   left: 15%;
+   color: #54c7f9;
+   font-size: x-large;
+ }
+ .about{
+display: flex;
+flex-direction: row;
+height: 45%;
+width:45%;
+position: relative;
+top: 15%;
+left: 30%;
+background-color:  rgba(185, 176, 176, 0.37);
+text-align: center;
+justify-content: space-around;
+line-height: 230%;
+padding-top: 3%;
+padding-bottom: -2%;
+border-radius: 15% 22%;
+ }
 
-     
- 
+.hospital{
+   display: flex;
+   flex: row;
+   position: relative;
+   top: 12%;
+   left: 45%;
+   width:9%;
+   color: 54c7f9;
+}
