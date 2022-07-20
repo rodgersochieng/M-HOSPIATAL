@@ -282,5 +282,31 @@ border-radius: 20px;
    padding-top: 2%;
 
 }
+.imgt{
+   height: 35%;
+   position: relative;
+   top: 60%;
+
+}
+.imgf{
+   height: 35%;
+   position: relative;
+   top: 60%;
+}
+.imgi{
+   height: 35%;
+   position: relative;
+   top: 60%;
+}
+.imgs{
+   display: flex;
+   flex-direction: row;
+   padding: 2%;
+   margin-left: -2%;
+   margin-top: -2%;
+}
+.com{
+   font-weight: 10px;
+}
 
 
