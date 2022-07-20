@@ -153,6 +153,8 @@ img{
  .vd{
    float: left;
    font-size: 12px;
+   font-weight: lighter;
+   padding: 20px;
   }
   p{
    margin-top: 0.5%
@@ -182,17 +184,17 @@ img{
 display: flex;
 flex-direction: row;
 height: 45%;
-width:45%;
+width:85%;
 position: relative;
 top: 15%;
-left: 30%;
+left: 7%;
 background-color:  rgba(185, 176, 176, 0.37);
 text-align: center;
 justify-content: space-around;
 line-height: 230%;
 padding-top: 3%;
 padding-bottom: -2%;
-border-radius: 15% 22%;
+border-radius: 20px;
  }
 
 .hospital{
@@ -204,3 +206,11 @@ border-radius: 15% 22%;
    width:9%;
    color: 54c7f9;
 }
+
+
+
+
+
+
+
+
