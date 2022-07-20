@@ -76,6 +76,8 @@ button {
     font-size: 20px;
     border-radius: 20px;
     padding: 6px 70px;
+    border: none;
+    outline: none;
 }
 #lp h4 {
     font-weight: lighter;
