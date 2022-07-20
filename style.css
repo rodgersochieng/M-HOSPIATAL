@@ -1,29 +1,18 @@
-/*img{
-    height: 20%;
-    position:relative;
-    top: 60px;
-    left: 45%;
-    border-radius: 50%;
-}*/
- .navbar{
-    height: 15%;
-    width: 100%;
-    background-color: #54c7f9;
- }
+
  .consult{
     position: relative;
-    left: 46%;
+    left: 47%;
     width: 15%;
-    top: 40px;
+    top: 15px;
     color: #54c7f9;
  }
  .consul-option{
     display: flex;
     flex-direction: row;
     position: relative;
-    top: 43px;
+    top: 37px;
     justify-content: space-between;
-    height: 50%;
+    height: 47%;
  }
  #active{
     display: flexbox;
@@ -59,16 +48,6 @@
     background-color: rgba(185, 176, 176, 0.37);
  }
 
-
-
- /*img{
-    height: 20%;
-    position:relative;
-    top: 80px;
-    left: 45%;
-    border-radius: 50%;
-    box-shadow: 6px 6px 4px #54c7f9;
-}*/
  .navbar{
     height: 10%;
     width: 100%;
@@ -183,10 +162,10 @@
  .about{
 display: flex;
 flex-direction: row;
-height: 45%;
+height: 35%;
 width:85%;
 position: relative;
-top: 15%;
+top: 10%;
 left: 7%;
 background-color:  rgba(185, 176, 176, 0.37);
 text-align: center;
@@ -286,6 +265,11 @@ border-radius: 20px;
    color: green
 }
 
+.log{
+   margin-left: 35%;
+   margin-top: 5%;
+   
+}
 
 
 
