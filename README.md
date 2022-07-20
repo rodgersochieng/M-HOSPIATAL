@@ -1,4 +1,4 @@
-# AgriPlus
+# M-HOSPITAL
 20/07/2022
 By **{Kelvin Muthomi, Zablon Onchari Nyabuto, Simion Okola, Rodgers Ochieng}**
 ## Description
