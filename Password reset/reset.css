@@ -37,7 +37,7 @@
     margin-top: 1%;
     border-radius: 20px;
 }
-button {
+.button {
     background-color: #54C7F9;
     padding: 0.6% 2%;
     border-radius: 10px;
@@ -52,7 +52,7 @@ button {
 #lp a {
     color: #54C7F9;
 }
-#login button {
+.button {
     color: white;
     font-weight: 600;
     font-size: 20px;
