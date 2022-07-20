@@ -96,6 +96,7 @@ input {
   border-radius: 20px;
   background-color: #54c7f9;
   text-align: start;
+  font-size: 20px;
 }
 .input1 {
     display: flex;
