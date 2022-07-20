@@ -146,11 +146,3 @@ input {
     font-size: 20px;
     color: black;
 }
-.submit {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding-top: 1%;
-    padding: 20px 150px;
-    border-radius: 20px;
-}
