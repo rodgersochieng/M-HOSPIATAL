@@ -27,6 +27,13 @@ button {
   border-radius: 20px;
   color: white;
   font-size: 18px;
+  width: 30%;
+  height: 35%;
+
+}
+a{
+  text-decoration: none;
+  color: white;
 }
 .button1 {
   display: flex;
@@ -52,21 +59,26 @@ button {
   justify-content: center;
   padding-top: 1%;
 }
+#icon1,#icon2,#icon3,#icon4{
+  align-items: flex-start;
+  padding-top: 10px;
+}
 #icon1{
     position: relative;
-    left: -70%
+    left: -50%;
+    
 }
 #icon2{
     position: relative;
-    left: -50%
+    left: -55%
 }
 #icon3{
     position: relative;
-    left: -60%
+    left: -47%
 }
 #icon4{
     position: relative;
-    left: -60%
+    left: -47%
 }
 .patient {
   display: flex;
@@ -95,7 +107,7 @@ input {
   padding-top: 1%;
   padding: 20px 150px;
   border-radius: 20px;
-  background-color: #54c7f9;
+  background-color: white;
   text-align: start;
   font-size: 20px;
 }
@@ -141,6 +153,7 @@ input {
     padding-top: 1%;
     padding: 20px 150px;
     border-radius: 20px;
+    margin-inline-start: 80px;
 }
 .button5 b{
     font-size: 20px;
